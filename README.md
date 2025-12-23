@@ -12,9 +12,9 @@ Tüm veriler tarayıcıda **localStorage** ile saklanır, sayfa yenilense bile k
 - Verilerin localStorage’da saklanması
 
 ## Canlı Demo
-👉 https://ferhatyuksek.github.io/todo/
+👉 https://ferhatyuksek.github.io/todo
 
-## 📌 Notlar
+## Notlar
 - Proje tamamen **framework’süz** geliştirilmiştir.
 - Eğitim ve pratik amaçlıdır.
 - JavaScript DOM, Event ve localStorage kullanımını pekiştirmek için uygundur.
