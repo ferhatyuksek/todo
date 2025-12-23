@@ -3,7 +3,7 @@
 const form = document.querySelector("#todoAddForm");
 const addInput =document.querySelector("#todoName");
 const todoList =document.querySelector(".list-group");
-const firsCardBody =document.querySelectorAll(".card-body")[0];
+const firstCardBody =document.querySelectorAll(".card-body")[0];
 const secondCardBody=document.querySelectorAll(".card-body")[1];
 const clearButton =document.querySelector("#clearButton");
 const todoSearch = document.querySelector("#todoSearch");
@@ -100,7 +100,7 @@ function showAlert(type,message){
     div.textContent=message;
     div.style.borderRadius="10px"
 
-    firsCardBody.appendChild(div);    
+    firstCardBody.appendChild(div);    
 
     setTimeout(function(){
         div.remove();
