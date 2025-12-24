@@ -12,7 +12,7 @@ Tüm veriler tarayıcıda **localStorage** ile saklanır, sayfa yenilense bile k
 - Verilerin localStorage’da saklanması
 
 ## Canlı Demo
-👉 https://ferhatyuksek.github.io/todo
+https://ferhatyuksek.github.io/todo
 
 ## Notlar
 - Proje tamamen **framework’süz** geliştirilmiştir.
